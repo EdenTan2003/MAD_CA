@@ -1,15 +1,14 @@
-
-A Recipe App to allow users to share recipes from their hometown or their childhood. This app allows users to view, add, edit and delete recipes.
-Includes a search page UI, that allows users to search directly without having to look through the homepage, there is also a profile page to allow users to keep track of their bookmarked recipes for them to refer to easily when they need it.
-
+# GoRecipe
+## A Recipe App to allow users to share recipes from their hometown or their childhood. This app allows users to view, add, edit and delete recipes. Includes a search page UI, that allows users to search directly without having to look through the homepage, there is also a profile page to allow users to keep track of their bookmarked recipes for them to refer to easily when they need it.
+```
 1. Edit the IP Address in the public folder -> utils -> IPAddress.js to your local IP Address.
-    (This is the IP Address of the wifi that your computer is connected to)
+    > (This is the IP Address of the wifi that your computer is connected to)
 
 2. Open 2 terminal tabs and CD into the public and server folders respectively.
 
 3. Run -> "npx expo start" in the public folder terminal and "nodemon server.js" in the server folder terminal
-
-# UI FLow of the application.
+```
+# UI Flow of the application.
 ![UI Flow_MAD_CA1](https://github.com/EdenTan2003/MAD_CA/assets/61679569/276e9d4e-61f0-4b8d-940b-d6cc3b4e19df)
 
 # Snippets of how the application looks.
